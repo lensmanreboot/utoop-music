@@ -1,0 +1,3 @@
+#!/bin/sh
+# Shell wrapper for uToop Music
+exec python3 /usr/lib/python3/dist-packages/utoop_music/ut_app.py "$@"

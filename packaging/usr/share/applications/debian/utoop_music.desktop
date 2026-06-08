@@ -1,0 +1,10 @@
+[Desktop Entry]
+Version=1.0
+Type=Application
+Name=uToop Music
+Comment=A simple YouTube music player for Maemo Leste
+Exec=/usr/bin/utoop_music
+Icon=utoop_music
+Terminal=false
+Categories=Utility;
+StartupNotify=true

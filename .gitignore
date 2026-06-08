@@ -1,0 +1,6 @@
+__pycache__/
+*.pyc
+*.deb
+.config/
+.DS_Store
+packaging.deb

@@ -1,0 +1,9 @@
+Package: utoop-music
+Version: 1.0.0
+Section: utils
+Priority: optional
+Architecture: all
+Maintainer: Miraj Lensman <mirajlensman@gmail.com>
+Depends: python3, python3-gi, python3-requests, yt-dlp, mpv, ffmpeg
+Description: uToop Music
+ A YouTube music player for Maemo Leste on Nokia N900.
