@@ -1,5 +1,3 @@
-[![Latest Release](https://img.shields.io/github/v/release/lensmanreboot/utoop-music?label=Latest%20Release)](https://github.com//lensmanreboot/utoop-music/releases/latest)
-
 # uToop Music
 
 uToop Music is a lightweight, GTK 3-based music player designed for Maemo Leste on the Nokia N900. It provides a terminal-styled interface for searching, streaming, and downloading YouTube audio.
