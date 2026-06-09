@@ -1,4 +1,4 @@
-[![Latest Release](https://img.shields.io/github/v/release/mirajlensman/utoop-music?label=Latest%20Release)](https://github.com/mirajlensman/utoop-music/releases/latest)
+[![Latest Release](https://img.shields.io/github/v/release/lensmanreboot/utoop-music?label=Latest%20Release)](https://github.com//lensmanreboot/utoop-music/releases/latest)
 
 # uToop Music
 
